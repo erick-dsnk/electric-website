@@ -1,0 +1,33 @@
+.About {
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: white;
+    animation: fadeIn ease 2s;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(238, 129, 129);
+}
+
+.link:hover {
+    color:rgb(209, 114, 114);
+}
+
+.descriptionEntry {
+    font-size: larger;
+    margin-top: 20px;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+        transform: translateY(10em);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0em);
+    }
+}

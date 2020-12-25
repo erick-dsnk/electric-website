@@ -1,0 +1,61 @@
+.Home {
+    animation: fadeIn ease 2s;
+    color: whitesmoke;
+    padding: 80px;
+}
+
+.section {
+    display: flex;
+}
+
+.inner {
+    float: left;
+}
+
+.sectionTitle {
+    font-size: xx-large;
+    font-weight: bold;
+    cursor: default;
+}
+
+#gif1 {
+    float: right;
+    border-radius: 20px;
+}
+
+.desc {
+    padding-top: 5px;
+    line-break: break-all;
+    max-width: 600px;
+    font-size: large;
+    font-weight: 300;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+        transform: translateY(10em);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0em);
+    }
+}
+
+@keyframes letterScaleUp {
+    0% {
+        transform: scale(1.0);
+    }
+    100% {
+        transform: scale(1.5);
+    }
+}
+
+@keyframes letterScaleDown {
+    0% {
+        transform: scale(1.5);
+    }
+    100% {
+        transform: scale(1.0);
+    }
+}
