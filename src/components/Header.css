@@ -1,6 +1,6 @@
 .Header {
-    position: -webkit-sticky;
     position: sticky;
+    position: -webkit-sticky;
     box-sizing: border-box;
     width: 100%;
     display: flex;
@@ -20,6 +20,10 @@
 .title {
     font-family: TitleFont;
     text-shadow: 2px 2px 5px #0af024
+}
+
+.title:hover {
+    text-shadow: 2px 2px 5px #a3ff39;
 }
 
 .title > a {

@@ -1,0 +1,35 @@
+.Contact {
+    color: white;
+    text-align: center;
+    margin: 50px;
+}
+
+.contactTitle {
+    margin: auto;
+    margin-bottom: 50px;
+    font-size: x-large;
+    width: 700px;
+    border-radius: 10px;
+    background-color: #262527;
+    padding: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.Contact code {
+    border-radius: 5px;
+    padding: 3px;
+    background-color: #262527;
+}
+
+.Contact span {
+    font-size: large;
+}
+
+.Contact a {
+    text-decoration: none;
+    color: rgb(238, 129, 129);
+}
+
+.Contact a:hover {
+    color: rgb(209, 114, 114);
+}

@@ -14,6 +14,10 @@ function Header() {
                     <strong>Contact</strong>
                 </a>
 
+                <a href="/documentation" className="navLink">
+                    <strong>Documentation</strong>
+                </a>
+
                 <a href="/download" className="navLink">
                     <strong>Download</strong>
                 </a>
