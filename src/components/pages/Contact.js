@@ -17,7 +17,7 @@ function Contact() {
             </div>
 
             <span>
-                Feel free to contact us by sending us an e-mail at <code></code> or <code>erick.8bld@gmail.com</code>
+                Feel free to contact us by sending us an e-mail at <code>xtremedevx@gmail.com</code> or <code>erick.8bld@gmail.com</code>
                 Otherwise, you can visit the <a href="https://github.com/XtremeDevX/Electric-Windows/issues">Issues</a> section in our GitHub repository!
             </span>
         </div>

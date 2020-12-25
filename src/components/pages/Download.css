@@ -1,0 +1,31 @@
+.Download {
+    color: white;
+    margin: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.Download h3 {
+    font-size: x-large;
+    margin: 10px;
+}
+
+.Download li {
+    margin: 20px;
+    font-size: large;
+}
+
+.Download a {
+    text-decoration: none;
+    color: rgb(238, 129, 129);
+}
+
+.Download a:hover {
+    color: rgb(209, 114, 114);
+}
+
+.Download code {
+    border-radius: 5px;
+    padding: 3px;
+    background-color: #262527;
+}
